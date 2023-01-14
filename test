@@ -1,8 +1,12 @@
 {
     "1": {
-        "test": "test"
+    "id":"1",
+    "fio":"test",
+    "number":"+7444444444"
     },
     "2": {
-        "test": "test"
+            "id":"1",
+    "fio":"test",
+    "number":"+7444444444"
     }
 }
