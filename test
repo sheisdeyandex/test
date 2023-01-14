@@ -1,11 +1,23 @@
 [{
         "id": "0",
         "fio": "test",
-        "number": "+7444444444"
+        "number": "+7444444444",
+        "scores": [{
+            "math": "5",
+            "english": "5",
+            "literature": "5",
+            "russian": "5"
+        }]
     },
     {
         "id": "1",
         "fio": "test",
-        "number": "+7444444444"
+        "number": "+7444444444",
+        "scores": [{
+            "math": "5",
+            "english": "5",
+            "literature": "5",
+            "russian": "5"
+        }]
     }
 ]
