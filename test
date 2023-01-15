@@ -3,41 +3,42 @@
         "fio": "test",
         "number": "+7444444444",
         "scores": [{
-        "name":"math",
-            "score": "5"
-        },
-        "name":"english",
-            "score": "5"
-        }
-        ,
-        "name":"literature",
-            "score": "5"
-        }
-        ,
-        "name":"russian",
-            "score": "5"
-        }
+                "name": "math",
+                "score": "5"
+            }, {
+                "name": "english",
+                "score": "5"
+            },
+            {
+                "name": "literature",
+                "score": "5"
+            },
+            {
+                "name": "russian",
+                "score": "5"
+            }
         ]
     },
     {
         "id": "1",
         "fio": "test",
         "number": "+7444444444",
-        "scores": [
-         "name":"math",
-            "score": "5"
-        },
-        "name":"english",
-            "score": "5"
-        }
-        ,
-        "name":"literature",
-            "score": "5"
-        }
-        ,
-        "name":"russian",
-            "score": "5"
-        }
+        "scores": [{
+                "name": "math",
+                "score": "5"
+            },
+            {
+                "name": "english",
+                "score": "5"
+            },
+            {
+                "name": "literature",
+                "score": "5"
+            },
+            {
+                "name": "russian",
+                "score": "5"
+            }
         ]
     }
 ]
