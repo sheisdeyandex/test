@@ -1,7 +1,7 @@
 [{
         "id": "0",
         "fio": "test",
-        "number": "+7444444444",
+        "number": "11",
         "scores": [{
                 "name": "math",
                 "score": "5"
@@ -22,7 +22,7 @@
     {
         "id": "1",
         "fio": "test",
-        "number": "+7444444444",
+        "number": "1",
         "scores": [{
                 "name": "math",
                 "score": "5"
